@@ -2,7 +2,7 @@
 
 ## Main Components
 
-- ESP8266 running WLED
+- ESP32 running WLED
 - WS2812B LED Strip (5m)
 - 12V 10A SMPS
 - LM2596 Buck Converter (Step-Down)
