@@ -31,7 +31,7 @@ This required additional research into firmware compatibility and manual flashin
 
 ### Firmware Preparation
 
-1. Locate a compatible WLED-SR firmware release.
+1. Locate a compatible WLED-SR firmware release. https://wled-install.github.io/
 2. Download the required firmware files.
 3. Verify compatibility with the ESP32 hardware.
 
